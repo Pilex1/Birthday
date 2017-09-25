@@ -2,28 +2,12 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-	<classpathentry kind="lib" path="/Debtsche Bank/core.jar"/>
-	<classpathentry kind="lib" path="/Debtsche Bank/gluegen-rt-natives-linux-aarch64.jar"/>
-	<classpathentry kind="lib" path="/Debtsche Bank/gluegen-rt-natives-linux-amd64.jar"/>
-	<classpathentry kind="lib" path="/Debtsche Bank/gluegen-rt-natives-linux-armv6hf.jar"/>
-	<classpathentry kind="lib" path="/Debtsche Bank/gluegen-rt-natives-linux-i586.jar"/>
-	<classpathentry kind="lib" path="/Debtsche Bank/gluegen-rt-natives-macosx-universal.jar"/>
-	<classpathentry kind="lib" path="/Debtsche Bank/gluegen-rt-natives-windows-amd64.jar"/>
-	<classpathentry kind="lib" path="/Debtsche Bank/gluegen-rt-natives-windows-i586.jar"/>
-	<classpathentry kind="lib" path="/Debtsche Bank/gluegen-rt.jar"/>
-	<classpathentry kind="lib" path="/Debtsche Bank/jogl-all-natives-linux-aarch64.jar"/>
-	<classpathentry kind="lib" path="/Debtsche Bank/jogl-all-natives-linux-amd64.jar"/>
-	<classpathentry kind="lib" path="/Debtsche Bank/jogl-all-natives-linux-armv6hf.jar"/>
-	<classpathentry kind="lib" path="/Debtsche Bank/jogl-all-natives-linux-i586.jar"/>
-	<classpathentry kind="lib" path="/Debtsche Bank/jogl-all-natives-macosx-universal.jar"/>
-	<classpathentry kind="lib" path="/Debtsche Bank/jogl-all-natives-windows-amd64.jar"/>
-	<classpathentry kind="lib" path="/Debtsche Bank/jogl-all-natives-windows-i586.jar"/>
-	<classpathentry kind="lib" path="/Debtsche Bank/jogl-all.jar"/>
 	<classpathentry kind="lib" path="C:/Users/torcm/Downloads/jlayer1.0.1/JLayer1.0.1/jl1.0.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/torcm/Documents/Processing/libraries/sound/library/sound.jar">
 		<attributes>
 			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/torcm/Documents/Processing/libraries/sound/library/windows64"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="core.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
