@@ -7,7 +7,7 @@ import java.util.*;
 
 import entities.*;
 import processing.core.*;
-import processing.sound.*;
+//import processing.sound.*;
 import terrain.*;
 
 public class Manager {
@@ -26,7 +26,7 @@ public class Manager {
 
 	private Player player;
 
-	private SoundFile satie;
+	//private SoundFile satie;
 
 	public Manager() {
 
